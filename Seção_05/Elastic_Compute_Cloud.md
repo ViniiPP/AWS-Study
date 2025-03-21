@@ -40,3 +40,20 @@ Pense no EC2 como computadores na nuvem que você pode alugar. Mas cada computad
 
 🔵 Instâncias Arm (A1, M6g, C6g, R6g)
 👉 Esses computadores usam uma tecnologia diferente (chamada Arm) e gastam menos energia. São bons para quem quer economizar dinheiro e precisa rodar aplicativos otimizados para essa tecnologia.
+
+✨ Resumo Final
+Se precisar de um computador na nuvem, escolha assim:
+
+
+✔️ Quer um computador normal? → Uso Geral
+
+✔️ Precisa de MUITA potência para cálculos? → Computação
+
+✔️ Precisa guardar muita coisa na memória? → Memória
+
+✔️ Precisa de muito espaço para arquivos? → Armazenamento
+
+
+✔️ Quer rodar jogos, IA ou gráficos pesados? → GPU
+
+✔️ Quer economizar com tecnologia diferente? → Arm
